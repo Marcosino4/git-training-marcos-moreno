@@ -1,0 +1,4 @@
+This program is a car race that makes every car wait a random time between 0.5 and 3 seconds each lap
+so that you never know which one will win.
+
+You can change the number of cars by changing the 'nCoches' variable value.
